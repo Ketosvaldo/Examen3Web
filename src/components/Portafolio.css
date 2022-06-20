@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+}
+
+.box{
+    border: 1px solid black;
+}
+
+.duck{
+    width: 200px;
+}
+
+.title{
+    font-weight: bold;
+    text-align: left;
+}

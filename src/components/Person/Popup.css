@@ -1,0 +1,44 @@
+.modal {
+    border: 3px solid black;
+    border-radius: 20px;
+    width: 500px;
+  }
+  .modal > .header {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: #094635;
+    color: white;
+    border-bottom: 1px solid gray;
+    font-size: 30px;
+    text-align: center;
+    padding: 5px;
+  }
+  .modal > .content {
+    text-align: center;
+    background-color: #0E906B;
+    color: white;
+    padding: 10px 5px;
+  }
+  .modal > .actions {
+    padding: 10px 5px;
+    margin: auto;
+    text-align: center;
+    background-color: #0E906B;
+  }
+  .modal > .close {
+    cursor: pointer;
+    position: absolute;
+    display: block;
+    padding: 2px 5px;
+    line-height: 20px;
+    right: -10px;
+    top: -10px;
+    font-size: 24px;
+    background: #ffffff;
+    border-radius: 18px;
+    border: 1px solid #cfcece;
+  }
+
+  .modal .content .category{
+    font-weight: bold;
+  }

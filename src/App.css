@@ -1,0 +1,32 @@
+.App {
+  display: flex;
+  text-align: center;
+}
+
+.App-logo {
+  margin-top: 20px;
+  height: 20vmin;
+  pointer-events: none;
+  border-radius: 100%;
+}
+
+.App-header {
+  font-size: calc(10px + 2vmin);
+  color: white;
+  background-color: #818181;
+  width: 30vmin;
+  height: 100vmin;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

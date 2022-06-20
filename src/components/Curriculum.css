@@ -1,0 +1,21 @@
+h1{
+    padding-top: 70px;
+    text-align: left;
+    padding-left: 600px;
+}
+
+ul {
+    padding-left: 600px;
+    text-align: left;
+    padding-top: 20px;
+    font-weight: bold;
+}
+
+p{
+    padding-top: 30px;
+    font-weight: normal;
+}
+
+.cur{
+    margin-left: 100px;
+}
